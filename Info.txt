@@ -1,0 +1,13 @@
+Indian crypto exhanges are highly liquid
+
+(i) First strategy:-
+
+Place an order on buy one exchange i.e. cheaper (CoinDCX)
+Sell an exhange on other i.e WazirX
+
+(ii) Second strategy:-
+In a single exhange, 
+CoinDCX(1% TDS , 3% for 3 transactions)-> There are three markets for every cryptocurrency
+-> BTC-INR
+-> BTC-USDC
+-> INR-USDT
