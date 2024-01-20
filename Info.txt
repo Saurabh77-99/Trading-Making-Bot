@@ -11,3 +11,47 @@ CoinDCX(1% TDS , 3% for 3 transactions)-> There are three markets for every cryp
 -> BTC-INR
 -> BTC-USDC
 -> INR-USDT
+
+-----------------------------
+Zerodha -> CoinDCX
+
+1000 rupees -> CoinDCX -> can buy eth,btc,...
+->The way to buy is OrderBook
+
+INR -----> OrderBook (maintained by Market Makers)
+1000 Rs ---> How many Btc i get !!!
+Give rupees , you get BTC 
+
+-People don't buy too much crypto with INR.
+ OrderBook of INR gets affected
+ (INR -BTC) is illiquid -> get very bad price
+
+1$ = 83 Rs
+1$ -> 0.1 BTC 
+83 Rs -> 0.09 BTC  
+
+Best way (Smart Peoples) :-
+83 Rs -> 1$ -> 0.1 BTC
+Rupees -> Dollars -> Bitcoin
+-----------------------------------
+everything is on exhange , market is over there only !! i.e.CoinDCX
+INR -> SOL -> 1%
+These are 3 transactions therefore 3%
+-----------------------------------
+BTC-USDT (Binance,Coinbase)
+Currently we can convert USD-INR and USD-SOL
+-----------------------------------
+
+() THIRD MARKET : (liquid)
+
+lowest ask for SOL - 8524.24 - >>>8524.22 (order placed by someone) 
+person with exchange of 8524.22(to other person) gets 1 SOL 
+-other with 8524.22 -> convert to $96.60 -> 1.01 SOL (slight extra sol profit of 0.01)
+
+***IT WON'T WORK IF TRADING FEES IS HIGH***
+***IF TRANSACTION FEES ARE HIGH THAN ITS PROBLEM***
+------------------------------------------------------
+
+
+
+
